@@ -52,7 +52,7 @@ Prepared from live market data.
 | Vanguard Capital Management LLC | 959,107,911 | 6.57% | $329,923,520,938 |
 | State Street Corporation | 615,129,929 | 4.21% | $211,598,538,269 |
 | Geode Capital Management, LLC | 371,336,543 | 2.54% | $127,736,053,800 |
-| Vanguard Portfolio Management LLC | 334,119,156 | 2.29% | $114,933645,209 |
+| Vanguard Portfolio Management LLC | 334,119,156 | 2.29% | $114,933,645,209 |
 
 ## Dividend and split history
 
